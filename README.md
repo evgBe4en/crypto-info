@@ -2,11 +2,11 @@
 Crypto Info is a React.js web application that provides real-time information about cryptocurrencies and exchanges. It utilizes the Material-UI library for a sleek and modern user interface and interacts with cryptocurrency APIs to fetch and display the latest data.
 
 ## Features
-Cryptocurrency Information: Get detailed information about various cryptocurrencies, including market price, market cap, volume, and price changes.
-Exchange Data: Access real-time data from popular cryptocurrency exchanges, including trading pairs, market prices, and trading volumes.
-Search and Filter: Easily search for specific cryptocurrencies or filter them based on criteria such as market cap, price, or volume.
-Responsive Design: The application is built with a responsive design, ensuring a seamless user experience across different devices and screen sizes.
-Material-UI: Utilizes Material-UI components and styles for a modern and visually appealing interface.
+- Cryptocurrency Information: Get detailed information about various cryptocurrencies, including market price, market cap, volume, and price changes.
+- Exchange Data: Access real-time data from popular cryptocurrency exchanges, including trading pairs, market prices, and trading volumes.
+- Search and Filter: Easily search for specific cryptocurrencies or filter them based on criteria such as market cap, price, or volume.
+- Responsive Design: The application is built with a responsive design, ensuring a seamless user experience across different devices and screen sizes.
+- Material-UI: Utilizes Material-UI components and styles for a modern and visually appealing interface.
 
 ## Installation
 ```sh
